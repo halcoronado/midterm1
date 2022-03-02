@@ -1,4 +1,5 @@
 .Output.png
 .Readme.md
 .__pycache__
-
+.gitignore
+.git/info/exclude
